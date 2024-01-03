@@ -7,7 +7,7 @@ For more info about Conway's Game of Life Go To- [Wikipedia](https://en.wikipedi
 
 ## Getting Started To Edit
 ### Prerequisites
-- C++ Comipiler
+- C++ Compiler
 - SDL2 Library
 Download The repo and Edit it as you want
 
